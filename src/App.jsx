@@ -361,10 +361,10 @@ function App() {
             <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-8">
               <div className="flex space-x-6">
                 <a 
-                  href="mailto:hello@probaho.org" 
+                  href="mailto:info@puredrop" 
                   className="text-gray-400 hover:text-white transition-all duration-300 hover:scale-110 transform"
                 >
-                  hello@probaho.org
+                  info@puredrop
                 </a>
                 <a 
                   href="https://wa.me/" 
